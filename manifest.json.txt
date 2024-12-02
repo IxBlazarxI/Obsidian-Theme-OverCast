@@ -1,11 +1,12 @@
-{
+  {
   "id": "overcast",
   "name": "Overcast",
   "version": "1.0",
   "author": "@IxBlazarxI",
-  "authorUrl": "https://github.com/IxBlazarxI",
+  "repo": "https://github.com/IxBlazarxI/Obsidian-Theme-OverCast",
+  "screenshot": "cover.jpg",
   "description": "A calming, rainy overcast theme for a serene workspace.",
   "minAppVersion": "0.15.0",
-  "css": "theme.css",
-}
-
+  "modes": ["dark"],
+  "css": "theme.css"
+  },
