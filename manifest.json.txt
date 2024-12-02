@@ -1,0 +1,11 @@
+{
+  "id": "overcast",
+  "name": "Overcast",
+  "version": "1.0",
+  "author": "@IxBlazarxI",
+  "authorUrl": "https://github.com/IxBlazarxI",
+  "description": "A calming, rainy overcast theme for a serene workspace.",
+  "minAppVersion": "0.15.0",
+  "css": "theme.css",
+}
+
