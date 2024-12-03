@@ -2,7 +2,7 @@
 .theme-dark {
   background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7uAbgFvJwtNb0PXLhQMdO5bGAd0DXkJpHZ5Pqy44u0tBopBkRXNsnSsTvaz9ludmeFA50_jGfSHXcMWkirA35LpRZbVmGv_VMlg9e26hKFUkt3QgeAF3uKTR6isEm24y7IJx904iFsbNbXDf6iESZD_UrjvC76loAc-lOghZJzVQiz7I0zwYYeDV0/s1599/WhatsApp%20Image%202024-12-02%20at%2014.30.23.jpeg);
   background-size: cover !important;
-  backdrop-filter: brightness(0.4) blur(4px);
+  backdrop-filter: brightness(0.7) blur(4px);
   --background-secondary-alt: rgb(var(--ctp-crust));
 }
 
@@ -14,14 +14,29 @@ body, .titlebar-inner, .titlebar, .titlebar-button {
 }
 
 /* Keeping the settings menu darker to make it easier to read */
-.settings-container, .menu, .vertical-tab-header, .vertical-tab-content, .settings-panel, .setting-item, .setting-item-label, .setting-item-description {
-  backdrop-filter: brightness(0); 
+.settings-container, 
+.menu, .modal-sidebar, 
+.community-modal-controls, 
+.community-modal-search-results,
+.community-modal-info,
+.modal-setting-nav-bar, 
+.vertical-tab-header, 
+.vertical-tab-content, 
+.settings-panel, 
+.setting-item, 
+.setting-item-label, 
+.setting-item-description {
+  backdrop-filter: brightness(0.1); 
   background-color: transparent;
   border-color: rgb(226, 226, 226);
 }
 
 /* Additional text customization for glowing effect */
-.markdown-preview-view, .cm-content, .markdown-source-view, .markdown-preview-view p {
+.markdown-preview-view, 
+.modal-close-button, 
+.cm-content, 
+.markdown-source-view, 
+.markdown-preview-view p {
   color: #ffffff !important;
   text-shadow: 0 0 3px #ffffff;
 }
