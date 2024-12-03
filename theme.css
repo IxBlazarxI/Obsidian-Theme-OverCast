@@ -31,6 +31,26 @@ body, .titlebar-inner, .titlebar, .titlebar-button {
   border-color: rgb(226, 226, 226);
 }
 
+/* Glowing effect for checkboxes */
+.markdown-preview-view input[type="checkbox"] {
+  appearance: none; 
+  width: 16px;
+  height: 16px;
+  border: 2px solid #ffffff;
+  border-radius: 3px;
+  outline: none;
+  background: transparent;
+  cursor: pointer;
+  box-shadow: 0 0 5px #ffffff;
+  transition: box-shadow 0.3s ease-in-out, background 0.3s ease-in-out;
+}
+
+.markdown-preview-view input[type="checkbox"]:checked {
+  background: #ffffff;
+  box-shadow: 0 0 8px #ffffff;
+}
+
+
 /* Additional text customization for glowing effect */
 .markdown-preview-view, 
 .modal-close-button, 
