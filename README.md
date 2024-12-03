@@ -12,7 +12,7 @@
 
 Overcast is the first theme I made for Obsidian. While I don't have much experience with CSS, I thought it would be fun to customize my workspace to make it look pleasant and motivate me to work more efficiently.
 
-This theme features a beautiful rain wallpaper, which is a screenshot from one of my favorite games. The image is subtly blurred with the brightness turned down for a serene and focused aesthetic.
+This theme features a beautiful rain wallpaper, which is a screenshot from one of my favorite games. The image is subtly blurred with the brightness turned down for a serene and focused aesthetic. Currently, the theme only features a dark version. I'll be adding a light version in the future soon.
 
 ---
 
