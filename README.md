@@ -1,4 +1,4 @@
-# Overcast Theme for Obsidian
+# OverCast Theme for Obsidian
 ![cover](https://github.com/user-attachments/assets/ff06b860-8052-4f4a-9627-36d9d278b3a8)
 
 [Overview](#overview)  
