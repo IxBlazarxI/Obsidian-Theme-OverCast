@@ -31,7 +31,7 @@ This theme features a beautiful rain wallpaper, which is a screenshot from one o
 
 ![image](https://github.com/user-attachments/assets/f3f63925-ceeb-45de-9bd1-eca294da65f2)
 
-![{D132A874-5C52-4FFF-B67D-9D33F312CC52}](https://github.com/user-attachments/assets/228d1766-931b-4b45-9a9a-c2ca788bb8e9)
+![image](https://github.com/user-attachments/assets/236ad08e-f27a-4314-80ea-bae58877ff2d)
 
 Wallpaper in use: 
 
