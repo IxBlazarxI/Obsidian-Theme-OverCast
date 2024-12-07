@@ -25,7 +25,8 @@ body, .titlebar-inner, .titlebar, .titlebar-button {
 .settings-panel, 
 .setting-item, 
 .setting-item-label, 
-.setting-item-description {
+.setting-item-description,
+.status-bar {
   backdrop-filter: brightness(0.1); 
   background-color: transparent;
   border-color: rgb(226, 226, 226);
